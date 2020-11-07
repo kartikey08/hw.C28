@@ -52,7 +52,7 @@ function draw() {
 
   rectMode(CENTER);
 
-  background(100);
+  background(0);
 
   drawSprites();
   
